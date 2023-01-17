@@ -1,0 +1,23 @@
+{
+  "name": "generic-function-wpp",
+  "version": "1.0.0",
+  "description": "generic function to our app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luis martins",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.51.6"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.45.0",
+    "@typescript-eslint/parser": "^5.45.0",
+    "eslint": "^8.29.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.0",
+    "typescript": "^4.9.3"
+  }
+}
